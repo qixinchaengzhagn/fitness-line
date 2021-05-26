@@ -1,0 +1,1 @@
+(()=>{"use strict";document.ready=function(n){document.addEventListener("DOMContentLoaded",(function(){n()}))}})();
